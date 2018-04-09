@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  img5 = 'images/5.jpg';
+  img4 = 'images/4.jpg';
+  img6 = 'images/g6.jpg';
 }
